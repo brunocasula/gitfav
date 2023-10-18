@@ -11,11 +11,15 @@ Programa de estudo e desenvolvimento Rocketseat.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-`HTML` `CSS` `JavaScript` `Git e Github` `Figma`
+- HTML
+- CSS
+- JavaScript
+- Git e Github
+- Figma
 
 ## 💻 Projeto
 
-O GitFav é um programa desenvolvido para realizar pesquisas de usuários no Github salvando como favoritos.
+O GitFav é um programa desenvolvido que permite realizar buscas de usuários do GitHub e adiona-los em uma lista de favoritos.
 
 - [Acesse o projeto finalizado, online](https://brunocasula.github.io/gitfav/)
 
@@ -25,5 +29,6 @@ Você pode visualizar o layout do projeto através desse [LINK](https://www.figm
 
 
 ## 📝 Licença
-
- Copyright © 2023 / [Bruno Casula](https://github.com/brunocasula)
+Este projeto pode ser usado por qualquer pessoa! Licença MIT.
+# 
+Copyright © 2023 / [Bruno Casula](https://github.com/brunocasula)
